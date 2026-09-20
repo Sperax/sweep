@@ -1,5 +1,5 @@
 <p align="center">  
-  <picture>
+  <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/sweep-banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="docs/assets/sweep-banner-light.svg">
     <img src="docs/assets/sweep-banner.svg" alt="Sweep" width="800"/>
